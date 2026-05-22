@@ -28,8 +28,8 @@ Running graphical games in MARS requires setting up the specific display tools b
 1. Open `MARS 4.5` and load the `tetris.asm` file.
 2. Go to the **Tools** menu and open the **Bitmap Display**.
 3. Configure the Bitmap Display settings as follows:
-   * Unit Width in Pixels: `8` 
-   * Unit Height in Pixels: `8` 
+   * Unit Width in Pixels: `16` 
+   * Unit Height in Pixels: `16` 
    * Display Width in Pixels: `256` 
    * Display Height in Pixels: `512` 
    * Base Address for Display:  `0x10008000 ($gp)`
